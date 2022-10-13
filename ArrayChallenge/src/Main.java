@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Enter the size of the array:");
         int size=scanner.nextInt();
-        int[] intArray=getInteger();
+        //int[] intArray=getInteger();
     }
 }
